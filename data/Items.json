@@ -1,3 +1,4 @@
 [
-null
+null,
+{"id":1,"animationId":1,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"《魔女之家》里的爱莲遗落的小刀","effects":[],"hitType":0,"iconIndex":0,"itypeId":1,"name":"爱莲的小刀","note":"","occasion":0,"price":0,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0}
 ]
