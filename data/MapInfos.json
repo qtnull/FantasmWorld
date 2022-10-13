@@ -2,5 +2,5 @@
 null,
 {"id":1,"expanded":true,"name":"FantasmWorld","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":522},
 {"id":2,"expanded":false,"name":"PrologueScene","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"chapter 1","order":3,"parentId":1,"scrollX":655.2,"scrollY":364.8}
+{"id":3,"expanded":false,"name":"chapter 1","order":3,"parentId":1,"scrollX":1092,"scrollY":607.3333333333334}
 ]
