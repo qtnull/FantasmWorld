@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"PlaceholderCharacter","nickname":"PC","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Character","nickname":"Basic","note":"","profile":""}
 ]
