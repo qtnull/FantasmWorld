@@ -4,5 +4,7 @@ var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
 {"name":"MadeWithMv","status":false,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
-{"name":"YEP_EventRegionTrigger","status":true,"description":"v1.02 Allows events to trigger by being in specific regions\ninstead of needing to exactly next to or on top of them.","parameters":{}}
+{"name":"YEP_EventRegionTrigger","status":true,"description":"v1.02 Allows events to trigger by being in specific regions\ninstead of needing to exactly next to or on top of them.","parameters":{}},
+{"name":"L10nMV","status":true,"description":"This plugin provides localization feature to RPG Maker MV.\r\nVersion : Release 1.4.7\r\nCommit hash : cbd1a36f577d658a34f8d302b3ecf328c3b0be5f","parameters":{"lang":"zh","global-lang":"zh","specified-languages":"[\"es\",\"zh\"]","use-first-setup":"false","option-available-condition":"L10nMV.LastScene === Scene_Title","strict":"false","whitelist-plugins":"","ignore-decrypt-language-pack":"true"}},
+{"name":"L10nMVEditor","status":false,"description":"This plugin helps making language pack for L10nMV plugin.\r\nVersion : Release 1.4.7\r\nCommit hash : cbd1a36f577d658a34f8d302b3ecf328c3b0be5f","parameters":{"whitelist-plugins":""}}
 ];

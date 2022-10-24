@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"FantasmWorld","order":1,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":2,"expanded":true,"name":"Prologue_CarCrashCutscene","order":3,"parentId":6,"scrollX":722.6666666666666,"scrollY":406},
 {"id":3,"expanded":false,"name":"Chapter1_Corridor","order":6,"parentId":1,"scrollX":1360,"scrollY":445},
-{"id":4,"expanded":false,"name":"Prologue_Map","order":5,"parentId":6,"scrollX":819,"scrollY":453},
+{"id":4,"expanded":false,"name":"Prologue_Map","order":5,"parentId":6,"scrollX":819,"scrollY":452.5},
 {"id":5,"expanded":false,"name":"Prologue_DialogueAfterCarCrash","order":4,"parentId":6,"scrollX":722.6666666666666,"scrollY":406},
-{"id":6,"expanded":true,"name":"GameEntrypoint","order":2,"parentId":1,"scrollX":722.6666666666666,"scrollY":406}
+{"id":6,"expanded":true,"name":"GameEntrypoint","order":2,"parentId":1,"scrollX":819,"scrollY":452.5}
 ]
